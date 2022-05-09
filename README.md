@@ -1,2 +1,2 @@
-# Jogo-de-Mem-ria-estilo-Genius
+# Jogo de Memória estilo Genius
 Jogo Genius com HTML, CSS &amp; JavaScript
